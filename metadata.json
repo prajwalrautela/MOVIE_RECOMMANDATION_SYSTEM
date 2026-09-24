@@ -1,0 +1,6 @@
+{
+  "name": "CineMatch — Movie Recommendation System",
+  "description": "Intelligent movie recommendation platform featuring content-based vector similarity, collaborative filtering, personalized watchlists, and interactive taste discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
